@@ -1,0 +1,16 @@
+{
+  "name": "Number Quest Kids — Fun Math & Number Arcade",
+  "short_name": "Number Quest",
+  "description": "An interactive number quiz for children with Words to Numbers, Missing Sequences, Skip Counting, and 3D toy blocks.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10b981",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64 128x128 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
